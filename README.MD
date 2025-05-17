@@ -2,7 +2,9 @@
 
 ## Hecho por: 
 
-## mvn exec:java -Dexec.mainClass="com.example.Implementacion"
+## Comando para ejecucion de la implementacion 
+
+mvn exec:java -Dexec.mainClass="com.example.Implementacion"
 
 ## Objetivo
 
