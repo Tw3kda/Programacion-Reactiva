@@ -1,6 +1,6 @@
 # Taller sobre Operadores de Programación Reactiva
 
-## Hecho por: 
+## Hecho por: Katherin Juliana Moreno Carvajal, Mariana Salas Guti´errez, Santiago Navarro Cuy
 
 ## Comando para ejecucion de la implementacion 
 ```
