@@ -2,7 +2,7 @@
 
 ## Hecho por: Katherin Juliana Moreno Carvajal, Mariana Salas Gutierrez, Santiago Navarro Cuy
 
-## Comando para ejecucion de la implementacion 
+## Comando para ejecucion de la implementacion en CMD
 ```
 mvn exec:java -Dexec.mainClass="com.example.Implementacion"
 ```
