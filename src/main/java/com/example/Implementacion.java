@@ -1,7 +1,11 @@
 package com.example;
 
 import java.time.LocalTime;
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Random;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicReference;
@@ -88,7 +92,7 @@ public class Implementacion {
                     System.out.println("\n Resultados finales:");
                     // Muestra los votos por cada candidato
                     conteoFinal.get().forEach((nombre, cantidad) ->
-                            System.out.println("🗳 " + nombre + ": " + cantidad + " votos"));
+                            System.out.println(nombre + ": " + cantidad + " votos"));
 
                     // Muestra el total de votos válidos recibidos
                     System.out.println(" Total de votos válidos: " + totalVotos.get());
